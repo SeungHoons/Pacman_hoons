@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileMap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 13e3ad9989f26d04f9658db1b4cbf1c0, type: 3}
+    totalSpriteSurfaceArea: 152703
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 577519a49096b299b851e808c08810dc
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b6334770cf64673449306cd3a58dcd2c, type: 3}
+  - {fileID: 21300000, guid: 5fab0080f90c5ab4d9d95bc52aaba8b0, type: 3}
+  - {fileID: 21300000, guid: 543faf11527668147adab4a2cb095d27, type: 3}
+  - {fileID: 21300000, guid: fbb5cf3136504484abe1b3366892b709, type: 3}
+  - {fileID: 21300000, guid: c0ee1a513cf71514f880deb42a6783f0, type: 3}
+  - {fileID: 21300000, guid: ebbab6b292baf0148a46d446f2df4496, type: 3}
+  - {fileID: 21300000, guid: adde6ae2c01bc9b49a7f57a13aa86332, type: 3}
+  - {fileID: 21300000, guid: 772ff253abd5f4d43aa9c21ba8cc763b, type: 3}
+  - {fileID: 21300000, guid: 2f22285327ec68349ad1053524a2a171, type: 3}
+  - {fileID: 21300000, guid: 6ee28f53287c6d54a9b34235f324e49b, type: 3}
+  - {fileID: 21300000, guid: 2bd90c63cde9572409fab831f302c89a, type: 3}
+  - {fileID: 21300000, guid: b98a38c3c536dde49acc3c5b70d61d32, type: 3}
+  - {fileID: 21300000, guid: 4de8a0f339fd2ae47a658ade9f5e4ded, type: 3}
+  - {fileID: 21300000, guid: 1dec937492fed404d87f222000c21ab3, type: 3}
+  - {fileID: 21300000, guid: 79274394ecad20444bdaf90fe1153ce3, type: 3}
+  - {fileID: 21300000, guid: 2fb4070592010bd4b801f8d7fc757175, type: 3}
+  - {fileID: 21300000, guid: 2f1d674526460074f974efa135b77955, type: 3}
+  - {fileID: 21300000, guid: 85764316c45f6534ea2dddb67f96911c, type: 3}
+  - {fileID: 21300000, guid: 55ef9d163490896479e23137e2c3ac25, type: 3}
+  - {fileID: 21300000, guid: 5eb0f8c682078384a9d13d6bff06c616, type: 3}
+  - {fileID: 21300000, guid: aecb0687525fef44fb7f6b385deccde9, type: 3}
+  - {fileID: 21300000, guid: 832467c7dff929b4f8ba176c06eccf5e, type: 3}
+  - {fileID: 21300000, guid: 5a91b4d78a916b74cbe945d560032e95, type: 3}
+  - {fileID: 21300000, guid: b78eccd7a33bc004fb93e15af31cdb3b, type: 3}
+  - {fileID: 21300000, guid: 7a651448fb9635946b5f3f05dfb75778, type: 3}
+  - {fileID: 21300000, guid: ac980049e44efc24cb38da262af32500, type: 3}
+  - {fileID: 21300000, guid: 38914379af863814f870f6ff0f7260a9, type: 3}
+  - {fileID: 21300000, guid: 5ab9ce991c3a45848b9973ddf0481a1c, type: 3}
+  - {fileID: 21300000, guid: 208d08d9c9844a944ba9ff04419534e2, type: 3}
+  - {fileID: 21300000, guid: 2a2eedd97acebc24fb72e25fcb8ba43a, type: 3}
+  - {fileID: 21300000, guid: bf8cceba03a099b4aa2dd492c1cce7d4, type: 3}
+  - {fileID: 21300000, guid: 1f6272cab54884d4aa0f1a3b3e9ed43b, type: 3}
+  - {fileID: 21300000, guid: 407c657b515c491458d47244629a0ad9, type: 3}
+  - {fileID: 21300000, guid: c056309b2eb4aff4a9bc1a13fb643c9b, type: 3}
+  - {fileID: 21300000, guid: 65b352ebe17b66a42bbdfb5270c63b36, type: 3}
+  - {fileID: 21300000, guid: bcd13d3ca73be3841bdfd43fc5206d98, type: 3}
+  - {fileID: 21300000, guid: e510475c28af27449b05d7a23377e6d8, type: 3}
+  - {fileID: 21300000, guid: bf7aab8c653d2184e8476bb78d5fa56f, type: 3}
+  - {fileID: 21300000, guid: ca412d9d7cff6a64bbd49ae03488a076, type: 3}
+  - {fileID: 21300000, guid: 28a74eede47322a4b87eddee34041ffd, type: 3}
+  - {fileID: 21300000, guid: 5a14dc6ee234519409ab5153e18a1fa2, type: 3}
+  - {fileID: 21300000, guid: 740b13aeda8c7dd4187198f98ac66981, type: 3}
+  - {fileID: 21300000, guid: 08978dbef9d5ecb4a9c0d4b43a690d46, type: 3}
+  - {fileID: 21300000, guid: c636602ff2a46a847b460eac449ca8c2, type: 3}
+  - {fileID: 21300000, guid: f52a429f3d8fec848988d761e1a0c317, type: 3}
+  - {fileID: 21300000, guid: 02d322bf8b1ee814eb4e1854fbaa03fe, type: 3}
+  - {fileID: 21300000, guid: 9a0c21ff12fa13d43a7694b38b56e8a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tex_tileset_original_3
+  - tex_tileset_original_22
+  - tex_tileset_original_12
+  - tex_tileset_original_46
+  - tex_tileset_original_15
+  - tex_tileset_original_11
+  - tex_tileset_original_28
+  - tex_tileset_original_40
+  - tex_tileset_original_45
+  - tex_tileset_original_17
+  - tex_tileset_original_14
+  - tex_tileset_original_7
+  - tex_tileset_original_33
+  - tex_tileset_original_20
+  - tex_tileset_original_36
+  - tex_tileset_original_21
+  - tex_tileset_original_34
+  - tex_tileset_original_41
+  - tex_tileset_original_2
+  - tex_tileset_original_37
+  - tex_tileset_original_19
+  - tex_tileset_original_31
+  - tex_tileset_original_5
+  - tex_tileset_original_9
+  - tex_tileset_original_29
+  - tex_tileset_original_0
+  - tex_tileset_original_44
+  - tex_tileset_original_39
+  - tex_tileset_original_16
+  - tex_tileset_original_10
+  - tex_tileset_original_32
+  - tex_tileset_original_6
+  - tex_tileset_original_24
+  - tex_tileset_original_18
+  - tex_tileset_original_4
+  - tex_tileset_original_38
+  - tex_tileset_original_27
+  - tex_tileset_original_23
+  - tex_tileset_original_1
+  - tex_tileset_original_8
+  - tex_tileset_original_35
+  - tex_tileset_original_42
+  - tex_tileset_original_25
+  - tex_tileset_original_43
+  - tex_tileset_original_13
+  - tex_tileset_original_26
+  - tex_tileset_original_30
+  m_Tag: TileMap
+  m_IsVariant: 0

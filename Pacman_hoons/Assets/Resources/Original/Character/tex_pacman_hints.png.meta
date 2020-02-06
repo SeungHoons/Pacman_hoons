@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: c561d49cd07edaf41a89c338e6854e1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3976339778669284585
+    second: tex_pacman_hints_0
+  - first:
+      213: -2816132338783640257
+    second: tex_pacman_hints_1
+  - first:
+      213: -775276841471712913
+    second: tex_pacman_hints_2
+  - first:
+      213: -4101720456402659527
+    second: tex_pacman_hints_3
+  - first:
+      213: -5606596953138364823
+    second: tex_pacman_hints_4
+  - first:
+      213: -1218751997028805872
+    second: tex_pacman_hints_5
+  - first:
+      213: -865212646379249198
+    second: tex_pacman_hints_6
+  - first:
+      213: 4976721328531314762
+    second: tex_pacman_hints_7
+  - first:
+      213: 2544492102688201075
+    second: tex_pacman_hints_8
+  - first:
+      213: 7455340435748469616
+    second: tex_pacman_hints_9
+  - first:
+      213: 5782208424294001575
+    second: tex_pacman_hints_10
+  - first:
+      213: 2032234032687298401
+    second: tex_pacman_hints_11
+  - first:
+      213: -8964754559317906798
+    second: tex_pacman_hints_12
+  - first:
+      213: -3475436256498815024
+    second: tex_pacman_hints_13
+  - first:
+      213: 3457228505709326504
+    second: tex_pacman_hints_14
+  - first:
+      213: -3843734016972717808
+    second: tex_pacman_hints_15
+  - first:
+      213: -5403405309815106238
+    second: tex_pacman_hints_16
+  - first:
+      213: -1929990824651428135
+    second: tex_pacman_hints_17
+  - first:
+      213: -9079923472803543033
+    second: tex_pacman_hints_18
+  - first:
+      213: 2652378437339001410
+    second: tex_pacman_hints_19
+  - first:
+      213: 5091222697460959844
+    second: tex_pacman_hints_20
+  - first:
+      213: 1757929804210756872
+    second: tex_pacman_hints_21
+  - first:
+      213: -3537886428822539441
+    second: tex_pacman_hints_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tex_pacman_hints_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 302
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6764985d613d9d4da45b05fcc0e0a8f
+      internalID: 3976339778669284585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 204
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0098c5c25119de4a9c4d3b474057f72
+      internalID: -2816132338783640257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 204
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d3bb3095341349828c3a5507ab836
+      internalID: -775276841471712913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d13502ef54ee4428bdf02709621961
+      internalID: -3475436256498815024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 104
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a392e6b033d444687c5180e00023be
+      internalID: 3457228505709326504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742a1687108ece438b69c99e6184c4c
+      internalID: -3843734016972717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 111
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8bc9a31c7925e42875b167bb20cc5e
+      internalID: -5403405309815106238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ef71ea1555ee46b1cc355281f31e5
+      internalID: -1929990824651428135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9719b6bf7b67bd4cace1ae00f04654b
+      internalID: -9079923472803543033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e964f9b95b574190855b7fd261eb8
+      internalID: 2652378437339001410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f9956fb3b71694689eec74ef4b71f7
+      internalID: 5091222697460959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae135f937579544877a72c6556e41f
+      internalID: 1757929804210756872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tex_pacman_hints_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 217
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a1ea8b7f25f04098289444ad5c6ff
+      internalID: -3537886428822539441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
